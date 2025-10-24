@@ -64,11 +64,7 @@ END
 ```
 **Output:**  
 
-<br>
-<br>
-<br>
-
-
+![WhatsApp Image 2025-10-24 at 08 44 08_ab383a73](https://github.com/user-attachments/assets/68426311-f255-4bd5-83c2-760c5b589c6b)
 
 **Manual Calculations:**  
 
